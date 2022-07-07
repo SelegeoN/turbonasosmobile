@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/turbonasosmobile/static/css/main.fda33639.css",
+    "main.js": "/turbonasosmobile/static/js/main.1f6d880f.js",
+    "static/media/турбо1.png": "/turbonasosmobile/static/media/турбо1.020313cbf3af7fff1275.png",
+    "static/media/турбо2.png": "/turbonasosmobile/static/media/турбо2.bb87614321d5c198dc7b.png",
+    "static/media/турбо5.png": "/turbonasosmobile/static/media/турбо5.6b0ce84b38c90338449e.png",
+    "static/media/трубо4.png": "/turbonasosmobile/static/media/трубо4.ca0b025ebe5c53d07cbb.png",
+    "static/media/turbo81.png": "/turbonasosmobile/static/media/turbo81.24f5d77f09027b4ef33f.png",
+    "static/media/турбо3.png": "/turbonasosmobile/static/media/турбо3.7f3e718a821e36a7e868.png",
+    "static/media/turbo51.png": "/turbonasosmobile/static/media/turbo51.79deb8708bc2e3709c33.png",
+    "static/media/турбо26.png": "/turbonasosmobile/static/media/турбо26.f931423d5434acfc6f23.png",
+    "static/media/турбо22.png": "/turbonasosmobile/static/media/турбо22.5303927757100e460379.png",
+    "static/media/турбо6.png": "/turbonasosmobile/static/media/турбо6.be75d2a4e068fd61c71f.png",
+    "static/media/трубо21.png": "/turbonasosmobile/static/media/трубо21.9a183ee04ed507e947c8.png",
+    "static/media/турбо25.png": "/turbonasosmobile/static/media/турбо25.9075908ad31f3a7564e5.png",
+    "static/media/турбо23.png": "/turbonasosmobile/static/media/турбо23.c3bec08c719645430776.png",
+    "static/media/турбо24.png": "/turbonasosmobile/static/media/турбо24.056f3b1a7e0f2c9658b2.png",
+    "static/media/турбо7.png": "/turbonasosmobile/static/media/турбо7.13f0d755c3f77036c42c.png",
+    "static/media/turgo-turbine-svgrepo-com.svg": "/turbonasosmobile/static/media/turgo-turbine-svgrepo-com.db5ce8780d38c009ae56e61bfd888d94.svg",
+    "static/media/turbo61.png": "/turbonasosmobile/static/media/turbo61.9fb12ad28447c878a3f3.png",
+    "static/media/турбо8.png": "/turbonasosmobile/static/media/турбо8.bcdbc235f485b4c391e3.png",
+    "index.html": "/turbonasosmobile/index.html",
+    "main.fda33639.css.map": "/turbonasosmobile/static/css/main.fda33639.css.map",
+    "main.1f6d880f.js.map": "/turbonasosmobile/static/js/main.1f6d880f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda33639.css",
+    "static/js/main.1f6d880f.js"
+  ]
+}
